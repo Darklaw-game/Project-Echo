@@ -1,8 +1,8 @@
 local GloveStands, Portal = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Donjosx/GenZ/refs/heads/main/LobbyName.lua'),true))()
 
 
-game.StarterGui:SetCore("SendNotification", {Title = "Credit!", Text = "Edgelord V4 made by @DonjoSx, Credit to @SBScripts [Original]", Duration = 5})
-print("Edgelord made by DonjoSx")
+game.StarterGui:SetCore("SendNotification", {Title = "Credit!", Text = "Edgelord V4 made by @Echo, Credit to @SBScripts [Original]", Duration = 5})
+print("Edgelord made by Echo")
 
 if not edgelordsetting then
 	edgelordsetting = {
