@@ -734,7 +734,7 @@ screenGui.Parent = gui
 -- Create the Button
 local button = Instance.new("TextButton")
 button.Size = UDim2.new(0, 100, 0, 100) -- Square shape
-button.Position = UDim2.new(0, 1200, 0, 400)
+button.Position = UDim2.new(0, 1000, 0, 400)
 button.Text = "E"
 button.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 button.TextColor3 = Color3.fromRGB(255, 255, 255)
